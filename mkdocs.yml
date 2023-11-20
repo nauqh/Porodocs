@@ -1,0 +1,58 @@
+site_name: Material for Porobot
+repo_url: https://github.com/nauqh/RiotAPI
+repo_name: nauqh/porobot-docs
+theme:
+    logo: assets/favicon.png
+    favicon: assets/favicon.png
+    name: material
+    features:
+        - navigation.tabs
+        - navigation.sections
+        - toc.integrate
+        - search.suggest
+        - search.highlight
+        - content.tabs.link
+        - content.code.annotation
+        - content.code.copy
+    language: en
+    palette:
+        primary: blue
+        accent: yellow
+
+extra:
+    social:
+        - icon: fontawesome/brands/github
+          link: https://github.com/nauqh
+        - icon: fontawesome/brands/discord
+          link: https://discord.gg/DQ9QBM6HFW
+
+nav:
+    - Home: index.md
+    - What's New: release.md
+    - Configuration: settings.md
+    - Commands: commands.md
+    - FAQ: faq.md
+
+markdown_extensions:
+    - pymdownx.highlight:
+          anchor_linenums: true
+    - pymdownx.inlinehilite
+    - pymdownx.snippets
+    - admonition
+    - pymdownx.arithmatex:
+          generic: true
+    - footnotes
+    - pymdownx.details
+    - pymdownx.superfences
+    - pymdownx.tabbed:
+          alternate_style: true
+    - pymdownx.mark
+    - attr_list
+    - pymdownx.tasklist:
+          custom_checkbox: true
+    - pymdownx.emoji:
+          emoji_index: !!python/name:materialx.emoji.twemoji
+          emoji_generator: !!python/name:materialx.emoji.to_svg
+
+copyright: |
+    Copyright &copy; 2023 <a href="https://github.com/nauqh"  target="_blank" rel="noopener">Nauqh</a>
