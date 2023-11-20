@@ -1,4 +1,4 @@
-# :fontawesome-solid-circle-question: FAQ
+# :fontawesome-solid-user: FAQ
 
 **Last edited**: 12/07/2023 - Nauqh
 

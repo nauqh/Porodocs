@@ -1,4 +1,4 @@
-# :fontawesome-solid-terminal: Commands
+# :fontawesome-solid-rocket: Commands
 
 ## League of Legends
 
