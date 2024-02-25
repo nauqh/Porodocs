@@ -9,7 +9,6 @@
 **Update** (12 July 2023): Invite Porobot to your discord server at [Porobot](https://nauqh.github.io/Porodocs/)
 
 ## About the project
-
 ![Poro](./img/poros.jpg)
 
 Porobot is a compact system for gathering and organizing game statistics data from [Riot API](https://developer.riotgames.com/).
@@ -76,6 +75,7 @@ Since Porobot is built on the basis of `Hikari` library, it is essential to look
 ## Contributors
 
 - [x] Nauqh - [@nauqh](https://github.com/nauqh) 
+
 - [x] Tuanardo - [@anhtuan18602](https://github.com/anhtuan18602) 
 
 
