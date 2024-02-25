@@ -1,6 +1,6 @@
 site_name: Material for Porobot
-repo_url: https://github.com/nauqh/RiotAPI
-repo_name: nauqh/porobot-docs
+repo_url: https://github.com/nauqh/porobot
+repo_name: nauqh/porobot
 theme:
     logo: assets/favicon.png
     favicon: assets/favicon.png
